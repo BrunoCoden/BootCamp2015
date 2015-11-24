@@ -1,0 +1,21 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+#Container {
+	margin: 0px auto;
+	position: center;
+	background-color: #E1DAF8;
+	width: 80%;
+	text-align: center;
+}
+.textoRandom {
+	background-color: #333;
+}
+
+.textoOculto {
+	background-color: #354;
+	display: none;
+
+}
