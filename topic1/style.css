@@ -6,16 +6,42 @@ body {
 #Container {
 	margin: 0px auto;
 	position: center;
-	background-color: #E1DAF8;
+	background-color: #EBE7F8;
 	width: 80%;
-	text-align: center;
+	text-align: center;	
 }
 .textoRandom {
-	background-color: #333;
+	background-color: #DDDAE4;
 }
-
-.textoOculto {
-	background-color: #354;
+.textoOculto {	
 	display: none;
+	width: 100%;
+	text-align: center;
+}
+.welcome{
+}
+#article{	
+	height: 100%;
+	width: 40%;
+	margin:5px right;	
+	display: inline-block;
+	text-align: center;
+}
+#article img{
+	height: 100%;
+	width: 100%;
+
+}
+#marco{
+	text-align: right;
+	margin-right: 10px;
+
+}
+#titulo{
+	font-size: 40px;
+	font-weight: bolder;
+}
+.parrafos{
+	font-size:25px;
 
 }
